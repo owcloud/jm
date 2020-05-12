@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayamishra.com</id>
     <title>Jaya Mishra</title>
-    <updated>2020-05-12T17:40:35.259Z</updated>
+    <updated>2020-05-12T17:43:06.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayamishra.com"/>
     <link rel="self" href="https://jayamishra.com/atom.xml"/>
-    <subtitle>Jaya Mishra Personal Site</subtitle>
+    <subtitle>Poems, Thoughts and Ideas.</subtitle>
     <logo>https://jayamishra.com/images/avatar.png</logo>
     <icon>https://jayamishra.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Jaya Mishra</rights>
