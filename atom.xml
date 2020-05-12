@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayamishra.com</id>
     <title>Jaya Mishra</title>
-    <updated>2020-05-12T17:46:07.077Z</updated>
+    <updated>2020-05-12T17:50:23.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayamishra.com"/>
     <link rel="self" href="https://jayamishra.com/atom.xml"/>
@@ -10,6 +10,67 @@
     <logo>https://jayamishra.com/images/avatar.png</logo>
     <icon>https://jayamishra.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Jaya Mishra</rights>
+    <entry>
+        <title type="html"><![CDATA[Your Love, My Sweetest Dream]]></title>
+        <id>https://jayamishra.com/post/your-love-my-sweetest-dream/</id>
+        <link href="https://jayamishra.com/post/your-love-my-sweetest-dream/">
+        </link>
+        <updated>2020-05-12T17:49:16.000Z</updated>
+        <content type="html"><![CDATA[<p>Loved you with my heart,<br>
+my soul and my conscience.<br>
+Loved you with all I had,<br>
+sort of love that was world blind.</p>
+<p>Loved you with my head,<br>
+my respect and my loyality.<br>
+Loved you with every breeze,<br>
+that touched your ideal personality.</p>
+<p>Loved you as you are,<br>
+you was and you have always been.<br>
+Loved you as you would be,<br>
+all possible shades that you could be in.</p>
+<p>Loved you with my truth,<br>
+my life and my genuine.<br>
+Loved you with my silence,<br>
+my words that are living.</p>
+<p>Loved you in my lows,<br>
+my highs and my extemes.<br>
+Loved you in each mood swings,<br>
+your love my sweet dream.</p>
+<p>Loved you such love,<br>
+undefinable and unspoken.<br>
+Loved you such love,<br>
+that remained untaken!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alone by Edgar A Poe]]></title>
+        <id>https://jayamishra.com/post/alone-by-edgar-a-poe/</id>
+        <link href="https://jayamishra.com/post/alone-by-edgar-a-poe/">
+        </link>
+        <updated>2020-05-12T17:46:24.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>From childhood's hour I have not been</strong><br>
+As others were -- I have not seen<br>
+As others saw -- I could not bring<br>
+My passions from a common spring --<br>
+From the same source I have not taken<br>
+My sorrow -- I could not awaken<br>
+My heart to joy at the same tone --<br>
+And all I lov'd -- I lov'd alone --<br>
+Then -- in my childhood -- in the dawn<br>
+Of a most stormy life -- was drawn<br>
+From ev'ry depth of good and ill<br>
+<code>The mystery which binds me still --</code>From the torrent, or the fountain --<br>
+From the red cliff of the mountain --<br>
+From the sun that 'round me roll'd<br>
+In its autumn tint of gold --<br>
+From the lightning in the sky<br>
+As it pass'd me flying by --<br>
+From the thunder, and the storm --<br>
+And the cloud that took the form<br>
+(When the rest of Heaven was blue)<br>
+Of a demon in my view --</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Story of the Black Bunny Rabbit]]></title>
         <id>https://jayamishra.com/post/the-story-of-the-black-bunny-rabbit/</id>
@@ -23,38 +84,6 @@
 <p>This is a quote.</p>
 </blockquote>
 <figure data-type="image" tabindex="1"><img src="https://jayamishra.com/post-images/1589303463011.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jayamishra.com/post/hello-gridea/</id>
-        <link href="https://jayamishra.com/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
