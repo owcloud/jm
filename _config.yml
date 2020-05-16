@@ -10,15 +10,14 @@ disqus: 'demowebsite'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: openwolfco@gmail.com
 
 # Authors
 authors:
-  sal:
+  Jaya:
     name: JM
     display_name: Jaya Mishra
-    gravatar: 9e47c2f1528683646348c4bf9af76d94
-    email: openwolfco@gmail.com
+    gravatar: 982ca7ed42068da301c6b04507980ca2
+    email: mail@jayamishra.com
     web: https://jayamishra.com
     twitter: https://twitter.com/jayamishrapoet
     description: "Author of Her Green Diary and Intentions (Coming Soon) -  Jaya Mishra is a poet, writer and physician."
