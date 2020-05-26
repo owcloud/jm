@@ -5,7 +5,7 @@ description: "Jaya Mishra"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-167456021-2'
 disqus: 'jayamishra-com-1'
 mailchimp-list: ''
 include: ["_pages"]
