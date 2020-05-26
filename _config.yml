@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'disqus_tWc2aUUSL0'
+disqus: 'jmcom'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
