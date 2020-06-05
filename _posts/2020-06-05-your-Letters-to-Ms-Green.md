@@ -6,8 +6,9 @@ categories:
   - Letters
 tags:
   - null
-image: null
+image: L1p.jpg
 ---
+![L1p.jpg]({{site.baseurl}}/_posts/L1p.jpg)
 Dear Ms Green,
 
 Its been a while since we last spoke. 
