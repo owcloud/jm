@@ -8,7 +8,6 @@ tags:
   - null
 image: assets/L1p.jpg
 ---
-![L1p.jpg]({{site.baseurl}}/assets/L1p.jpg)
 
 Dear Ms Green,
 
