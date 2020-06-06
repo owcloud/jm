@@ -1,5 +1,12 @@
 ---
 published: false
+layout: post
+author: Jaya
+categories:
+  - Letters
+tags:
+  - null
+image: null
 ---
 Dear Ms Green,
 
