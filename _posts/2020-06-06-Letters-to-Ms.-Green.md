@@ -6,8 +6,10 @@ categories:
   - Letters
 tags:
   - null
-image: null
+image: assets/L2p.jpg
 ---
+
+
 Dear Ms Green,
 
 Thank you for calling me the other day. Although brief, the last conversation we had over the dead telephone was the most real conversation I have had in a long time.
